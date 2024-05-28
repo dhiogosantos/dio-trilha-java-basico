@@ -1,5 +1,5 @@
 # DIO - Trilha Java Básico
-[Digital Innovation One](www.dio.me)
+[Digital Innovation One](https://www.dio.me/)
 
 #### Autor
 - [Gleyson Sampaio](https://github.com/glysns)
